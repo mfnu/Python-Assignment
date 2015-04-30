@@ -11,3 +11,9 @@ def count_frequency(mylist):
 	return result
 
 print(count_frequency(mylist))
+
+'''
+O/P:
+C:\Python34\Assignments>python Functions-repeatsinlist.py
+{'eleven': 3, 'seven': 1, 'one': 2, 'two': 2, 'three': 2}
+'''
